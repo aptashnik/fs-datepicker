@@ -1,0 +1,10 @@
+{
+    "name": "fs-datepicker",
+    "version": "1.0.0",
+    "author": {
+        "name": ""
+    },
+    "dependencies": {
+        "fs-base": "git://github.com/aptashnik/fs-base.git#master"
+    }
+}
